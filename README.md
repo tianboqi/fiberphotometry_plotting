@@ -1,5 +1,5 @@
 # Fiber photometry plotting
-MATLAB scripts for plotting fiber photometry data
+MATLAB scripts for plotting fiber photometry data.
 
 ## Scripts
 The repository contains the following scripts:
