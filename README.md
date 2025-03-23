@@ -7,7 +7,7 @@ The repository contains the following scripts:
 
 ![Example whole FP trace](https://github.com/tianboqi/fiberphotometry_plotting/blob/main/img/example_whole_trace.bmp)
 
-- `FPplot_PSTH.m`: This script plots the signal corresponding to a specific behavior. It offers three different options for visualizing the data.
+- `FPplot_PSTH.m`: This script plots the average signal corresponding to a specific behavior. It offers three different options for visualizing the data.
 
 ![Example PSTH](https://github.com/tianboqi/fiberphotometry_plotting/blob/main/img/example_psth.bmp)
 
