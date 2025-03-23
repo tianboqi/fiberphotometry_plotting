@@ -1,0 +1,47 @@
+Caltech Behavior Annotator - Annotation File
+
+Configuration file:
+Other o
+Start s
+Feed f
+Drink d
+Investigate i
+Intro_food 1
+
+S1: start    end     type
+-----------------------------
+       1      21    Start
+      22     309    Other
+     310     313    Intro_food
+     314     797    Other
+     798     853    Investigate
+     854     866    Other
+     867    1101    Investigate
+    1102    1139    Other
+    1140    1173    Feed
+    1174    1180    Other
+    1181    1190    Investigate
+    1191    1202    Other
+    1203    1213    Investigate
+    1214    1257    Other
+    1258    1616    Feed
+    1617    1667    Other
+    1668    4376    Feed
+    4377    4499    Other
+    4500    4500    Drink
+    4501    4542    Other
+    4543    4549    Investigate
+    4550    4791    Other
+    4792    4798    Investigate
+    4799    5017    Other
+    5018    5037    Feed
+    5038    5412    Other
+    5413    5433    Investigate
+    5434    7615    Other
+    7616    7651    Investigate
+    7652    7717    Other
+    7718    7739    Investigate
+    7740    7898    Other
+    7899    8472    Feed
+    8473    8556    Other
+    8557    9550    Feed
