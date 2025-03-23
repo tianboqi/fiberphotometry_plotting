@@ -42,6 +42,6 @@ S1: start    end     type
     7652    7717    Other
     7718    7739    Investigate
     7740    7898    Other
-    7899    8472    Feed
+    7899    8472    Drink
     8473    8556    Other
     8557    9550    Feed
