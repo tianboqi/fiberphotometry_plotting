@@ -1,4 +1,4 @@
-# fiberphotometry_plotting
+# Fiber photometry plotting
 MATLAB scripts for plotting fiber photometry data
 
 ## Scripts
