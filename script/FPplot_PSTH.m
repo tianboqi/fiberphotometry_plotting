@@ -60,6 +60,7 @@ for i = 1:length(behaviors)-1
             signal_zeropoint_new = times(i+1,1)*fps_ratio;
         elseif strcmpi(behavior_type, 'end')
             signal_zeropoint_new = times(i+2,1)*fps_ratio;
+            signal_beh_end_old = times(i+1,1)*fps_ratio;
         else
             error('behavior_type has to be "start" or "end"')
         end
